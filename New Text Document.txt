@@ -1,0 +1,3 @@
+AMDE:  AMDE class
+
+Form1：main function
